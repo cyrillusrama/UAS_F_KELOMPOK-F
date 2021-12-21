@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/components/home.js": "/js/components/home.js",
+    "/js/components/login.js": "/js/components/login.js",
+    "/js/components/account.js": "/js/components/account.js",
+    "/js/components/register.js": "/js/components/register.js",
+    "/js/components/destination.js": "/js/components/destination.js",
+    "/js/components/order.js": "/js/components/order.js",
+    "/js/components/order-history.js": "/js/components/order-history.js",
+    "/js/components/edit-user.js": "/js/components/edit-user.js",
+    "/css/app.css": "/css/app.css"
+}
